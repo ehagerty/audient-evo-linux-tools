@@ -27,3 +27,6 @@ Suggestions/PRs welcome.
 * Allow adjust settings without having to detach from kernel and re-attach
 * Run in the background and save/restore any changes made using physical controls
 * GUI for adjusting settings (e.g. Official Evo Control Windows/Mac app)
+
+# Related
+* An Arduino C++ implementation which allows similar control using Arduino (in this case RP2350) as USB host: https://github.com/hoskere/audient-evo8-rp2350-arduino
